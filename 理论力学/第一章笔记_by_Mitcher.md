@@ -1,3 +1,5 @@
+First pulished at [here](https://www.huang-zifeng.com/zh/2023/02/20/theoretical_mechanics_1/)
+
 ## 静力学
 
 ### 引言的引言
